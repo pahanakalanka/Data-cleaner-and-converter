@@ -55,7 +55,7 @@ from converter import (
 st.set_page_config(
     page_title="Data Cleaner & Converter Suite",
     page_icon="🛠️",
-    layout="wide",
+    layout="wide"
 )
 
 DELIMITER_OPTIONS = {
